@@ -21,5 +21,20 @@ namespace ModifyEmployeeForm
         {
 
         }
+
+        private void ModifyEmployeeInfo_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label21_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
